@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\LifeGame\\LifeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E105010-AEB8-4B7A-ADF1-F229685099E2}|LifeGame\\LifeGame.csproj|c:\\projects\\lifegame\\lifegame\\lifegame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E105010-AEB8-4B7A-ADF1-F229685099E2}|LifeGame\\LifeGame.csproj|solutionrelative:lifegame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E105010-AEB8-4B7A-ADF1-F229685099E2}|LifeGame\\LifeGame.csproj|c:\\projects\\lifegame\\lifegame\\lifegame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E105010-AEB8-4B7A-ADF1-F229685099E2}|LifeGame\\LifeGame.csproj|solutionrelative:lifegame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 357,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Projects\\LifeGame\\LifeGame\\LifeGame\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LifeGame\\MainWindow.xaml",
+              "ToolTip": "C:\\Projects\\LifeGame\\LifeGame\\LifeGame\\MainWindow.xaml",
+              "RelativeToolTip": "LifeGame\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-21T17:25:29.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Projects\\LifeGame\\LifeGame\\LifeGame\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LifeGame\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Projects\\LifeGame\\LifeGame\\LifeGame\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LifeGame\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:25:28.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
